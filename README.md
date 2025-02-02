@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/677f1b2170129741a8649427?variant=dark)](https://roadmap.sh)
+
 <!--
 **allenrojo/allenrojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
