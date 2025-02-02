@@ -7,7 +7,8 @@
 
 
 ![Static Badge](https://img.shields.io/badge/figma%20-%20%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Blender%20-%20%23E87D0D?style=for-the-badge&logo=blender&logoColor=whitelogo&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/blender%20-%20%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto)
+
 ![Static Badge](https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=for-the-badge&logo=unrealengine&logoColor=whitelogo&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/openai%20-%20%23412991?style=for-the-badge&logo=openai&logoColor=white&logoSize=auto)
