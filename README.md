@@ -3,9 +3,10 @@
 
 ![Static Badge](https://img.shields.io/badge/html5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/css%20-%20%23663399?style=for-the-badge&logo=css&logoColor=whitelogo&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=whitelogo&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/javascript%20-%20%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/figma%20-%20%23F24E1E?style=for-the-badge&logo=figma&logoColor=whitelogo&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/figma%20-%20%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Blender%20-%20%23E87D0D?style=for-the-badge&logo=blender&logoColor=whitelogo&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Unreal%20Engine%20-%20%230E1128?style=for-the-badge&logo=unrealengine&logoColor=whitelogo&logoSize=auto)
 
